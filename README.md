@@ -47,6 +47,19 @@
   </a>
 </p>
 
+## Recorrido por mi código
+
+| Repositorio | Qué encontrarás | Contexto |
+| --- | --- | --- |
+| [CUPS Printer Installer](https://github.com/Rpfdeveloper/Scripttoinstallprinters) | Automatización en Bash para configurar impresoras Linux; simulación y pruebas con CUPS simulado. | Proyecto personal ligado a mi experiencia técnica. |
+| [PACman](https://github.com/Rpfdeveloper/PACman) | Java, libGDX, modelo orientado a objetos y pruebas JUnit. | Práctica UOC con código base docente y atribuciones conservadas. |
+| [UOCoworking](https://github.com/Rpfdeveloper/programmingFundamentalsUOC) | C, estructuras de datos, listas, colas y reservas. | Prácticas académicas UOC; el README explica cómo acceder a la rama con código. |
+| [Fundamentos de Java](https://github.com/Rpfdeveloper/Master-Java-Udemy) | Ejercicios de consola y calculadora con pruebas de regresión. | Formación y mejoras posteriores identificadas en el historial. |
+| [Arrays, matrices y objetos](https://github.com/Rpfdeveloper/Master-Java-180h-Udemy) | Ejemplos de algoritmos básicos y primeros modelos de objetos. | Seguimiento de formación en Java. |
+| [Variables y tipos](https://github.com/Rpfdeveloper/variables) | Diez ejemplos iniciales, conversiones y comparación de strings. | Primeros ejercicios de aprendizaje. |
+
+Los README de cada repositorio detallan los requisitos, la ejecución y los límites de la validación.
+
 ## 🤝 Contribución aceptada en código abierto
 
 **[JVM-MCP · PR #129](https://github.com/oscarbol09/jvm-mcp/pull/129)** — Aprobada e integrada el 20 de octubre de 2026.
