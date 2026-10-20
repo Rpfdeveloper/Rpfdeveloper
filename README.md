@@ -1,28 +1,44 @@
-<img src="./assets/profile-banner.svg" alt="Roberto Pajuelo · Desarrollador Java junior · Java, SQL y automatización" width="100%"/>
 
-Soy **Roberto**, estudiante de Ingeniería Informática en la **UOC**, orientado al desarrollo **Java y SQL**. Aporto **16 años de experiencia técnica en sistemas de impresión**, diagnóstico y resolución de incidencias.
+<h1 align="center">Hola, soy Roberto 👋</h1>
 
-Aquí reúno proyectos personales, prácticas de formación y colaboraciones con código disponible para revisión.
+<h1 align="center">Hola, soy Roberto 👋</h1>
 
-### Proyectos seleccionados
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Java+%C2%B7+PHP+%C2%B7+Redes;Aprendiendo+y+construyendo+cada+d%C3%ADa" alt="Typing SVG" />
+</p>
 
-| Proyecto | Contenido | Evidencia |
-| --- | --- | --- |
-| **[CUPS Printer Installer](https://github.com/Rpfdeveloper/Scripttoinstallprinters)** | Herramienta Bash para configurar impresoras en Linux, con simulación y actualización controlada de colas. | 25 pruebas con CUPS simulado y CI. Validación con impresora física pendiente. |
-| **[PACman · UOC](https://github.com/Rpfdeveloper/PACman)** | Proyecto académico de Java y POO con libGDX y Gradle. | Código organizado por entidades, controlador y pantallas; guía de ejecución y atribuciones docentes. |
-| **[UOCoworking · C](https://github.com/Rpfdeveloper/programmingFundamentalsUOC)** | Prácticas de programación estructurada: centros, coworkers, reservas, listas y colas. | Práctica final compilada con GCC; 45 pruebas académicas superadas. El código está en la rama `master`. |
-| **[Fundamentos de Java](https://github.com/Rpfdeveloper/Master-Java-Udemy)** | Operadores, control de flujo, strings y programas de consola. | 58 fuentes compiladas con Java 17; calculadora con cinco pruebas de regresión. |
-| **[Arrays, matrices y POO](https://github.com/Rpfdeveloper/Master-Java-180h-Udemy)** | Ejercicios de arrays, búsquedas, ordenación, matrices y primeros objetos. | 93 fuentes compiladas con Java 17 e instrucciones para ejecutar ejemplos. |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rpfdeveloper&style=flat-square&color=blue" alt="Visitas" />
+</p>
 
-### Colaboración en código abierto
+---
 
-**[JVM-MCP · Pull request #129](https://github.com/oscarbol09/jvm-mcp/pull/129)**  
-Corrección de la serialización JSON de arrays primitivos en Java y 24 pruebas nuevas. Propuesta enviada el 20 de octubre de 2026, con [CI del fork superado en Linux, macOS y Windows](https://github.com/Rpfdeveloper/jvm-mcp/actions/runs/39395994044). El estado de revisión y aceptación se consulta en la pull request.
+## 🧑‍💻 Sobre mí
 
-### Tecnologías que practico
+- 🎓 Cursando Ingeniería Informática en la UOC
+- 🖨️ Compagino los estudios con mi trabajo como técnico de equipos de impresión y conectividad
+- 🌱 Ahora mismo estoy profundizando en **sistemas distribuidos**, **desarrollo web** y **redes**
+- 📂 Mis proyectos: [ver repositorios](https://github.com/Rpfdeveloper?tab=repositories)
 
-**Java · SQL · C · Bash · Git · Linux · JUnit**
+## 🛠️ Stack
 
-Java y SQL forman parte de mi formación y práctica como desarrollador junior. Las prácticas académicas conservan las atribuciones de sus autores. Las mejoras recientes de documentación, código y pruebas se han preparado con asistencia de IA, indicada en los repositorios y en la contribución.
+<p>
+  <img src="https://skillicons.dev/icons?i=java,php,mysql,html,css,js,git,github,idea,linux" alt="Skills" />
+</p>
 
-**[Contacto y trayectoria en LinkedIn](https://www.linkedin.com/in/juliorpf-java-sql/)**
+## 📊 Estadísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rpfdeveloper&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rpfdeveloper&layout=compact&theme=tokyonight&hide_border=true" alt="Top lenguajes" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rpfdeveloper&theme=tokyo-night&hide_border=true" alt="Actividad" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Primero hazlo funcionar, luego hazlo bien, luego hazlo rápido."</i>
+</p>
