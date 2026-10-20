@@ -47,6 +47,14 @@
   </a>
 </p>
 
+## 🤝 Contribución aceptada en código abierto
+
+**[JVM-MCP · PR #129](https://github.com/oscarbol09/jvm-mcp/pull/129)** — Aprobada e integrada el 20 de octubre de 2026.
+
+Corrección de la serialización JSON de arrays primitivos en Java, con **24 pruebas nuevas**. Las comprobaciones del fork pasaron en Linux, macOS y Windows. [Ver código y revisión del mantenedor](https://github.com/oscarbol09/jvm-mcp/pull/129).
+
+Las mejoras recientes se han preparado con asistencia de IA declarada. Los proyectos académicos conservan las atribuciones de la UOC y de sus autores.
+
 ## 📊 Lenguajes más usados
 
 <p align="center">
