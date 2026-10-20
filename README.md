@@ -52,7 +52,7 @@
 | Repositorio | Qué encontrarás | Contexto |
 | --- | --- | --- |
 | [CUPS Printer Installer](https://github.com/Rpfdeveloper/Scripttoinstallprinters) | Automatización en Bash para configurar impresoras Linux; simulación y pruebas con CUPS simulado. | Proyecto personal ligado a mi experiencia técnica. |
-| [PACman](https://github.com/Rpfdeveloper/PACman) | Java, libGDX, modelo orientado a objetos y pruebas JUnit. | Práctica UOC con código base docente y atribuciones conservadas. |
+| [PACman](https://github.com/Rpfdeveloper/PACman) | Java, libGDX y modelo orientado a objetos; 304 pruebas JUnit verificadas en GitHub Actions. | Práctica UOC con código base docente y atribuciones conservadas. |
 | [UOCoworking](https://github.com/Rpfdeveloper/programmingFundamentalsUOC) | C, estructuras de datos, listas, colas y reservas. | Prácticas académicas UOC; el README explica cómo acceder a la rama con código. |
 | [Fundamentos de Java](https://github.com/Rpfdeveloper/Master-Java-Udemy) | Ejercicios de consola y calculadora con pruebas de regresión. | Formación y mejoras posteriores identificadas en el historial. |
 | [Arrays, matrices y objetos](https://github.com/Rpfdeveloper/Master-Java-180h-Udemy) | Ejemplos de algoritmos básicos y primeros modelos de objetos. | Seguimiento de formación en Java. |
