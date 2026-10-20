@@ -1,44 +1,58 @@
-
-<h1 align="center">Hola, soy Roberto 👋</h1>
-
-<h1 align="center">Hola, soy Roberto 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Java+%C2%B7+PHP+%C2%B7+Redes;Aprendiendo+y+construyendo+cada+d%C3%ADa" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header&text=Roberto%20Pajuelo&fontColor=ffffff&fontSize=42&fontAlignY=40" alt="Roberto Pajuelo" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rpfdeveloper&style=flat-square&color=blue" alt="Visitas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&center=true&vCenter=true&width=640&lines=Desarrollador+Java+junior;Java+%C2%B7+SQL+%C2%B7+Automatizaci%C3%B3n;Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica" alt="Desarrollador Java junior · SQL · Automatización" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/juliorpf-java-sql/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-- 🎓 Cursando Ingeniería Informática en la UOC
-- 🖨️ Compagino los estudios con mi trabajo como técnico de equipos de impresión y conectividad
-- 🌱 Ahora mismo estoy profundizando en **sistemas distribuidos**, **desarrollo web** y **redes**
-- 📂 Mis proyectos: [ver repositorios](https://github.com/Rpfdeveloper?tab=repositories)
+- 🎓 Estudiante de Ingeniería Informática en la UOC
+- 🖨️ Más de 16 años de experiencia técnica en sistemas de impresión: resolución de incidencias de conectividad y automatización con scripts
+- 🌱 Profundizando en **Java**, **SQL**, **sistemas distribuidos** y **desarrollo web**
+- 📂 Todos mis proyectos: [ver repositorios](https://github.com/Rpfdeveloper?tab=repositories)
 
 ## 🛠️ Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,mysql,html,css,js,git,github,idea,linux" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,php,html,css,js,bash,py,c,git,github,idea,linux" alt="Skills" />
 </p>
 
-## 📊 Estadísticas
+## 🚀 Proyectos destacados
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rpfdeveloper&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rpfdeveloper&layout=compact&theme=tokyonight&hide_border=true" alt="Top lenguajes" />
+  <a href="https://github.com/Rpfdeveloper/Scripttoinstallprinters">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rpfdeveloper&repo=Scripttoinstallprinters&theme=tokyonight&hide_border=true" alt="Scripttoinstallprinters" />
+  </a>
+  <a href="https://github.com/Rpfdeveloper/PACman">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rpfdeveloper&repo=PACman&theme=tokyonight&hide_border=true" alt="PACman" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rpfdeveloper&theme=tokyo-night&hide_border=true" alt="Actividad" />
+  <a href="https://github.com/Rpfdeveloper/programmingFundamentalsUOC">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rpfdeveloper&repo=programmingFundamentalsUOC&theme=tokyonight&hide_border=true" alt="programmingFundamentalsUOC" />
+  </a>
+  <a href="https://github.com/Rpfdeveloper/Master-Java-Udemy">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rpfdeveloper&repo=Master-Java-Udemy&theme=tokyonight&hide_border=true" alt="Master-Java-Udemy" />
+  </a>
 </p>
 
----
+## 📊 Lenguajes más usados
 
 <p align="center">
-  <i>"Primero hazlo funcionar, luego hazlo bien, luego hazlo rápido."</i>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rpfdeveloper&layout=compact&theme=tokyonight&hide_border=true" alt="Top lenguajes" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=90&section=footer" alt="" />
 </p>
