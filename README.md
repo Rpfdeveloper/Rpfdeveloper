@@ -63,7 +63,7 @@ Las mejoras recientes se han preparado con asistencia de IA declarada. Los proye
 
 | Repositorio | Qué encontrarás | Contexto |
 | --- | --- | --- |
-| [CUPS Printer Installer](https://github.com/Rpfdeveloper/Scripttoinstallprinters) | Automatización en Bash para configurar impresoras Linux; simulación y pruebas con CUPS simulado. | Proyecto personal ligado a mi experiencia técnica. |
+| [CUPS Printer Installer](https://github.com/Rpfdeveloper/Scripttoinstallprinters) | Automatización en Bash para configurar impresoras Linux; simulación y 28 pruebas con CUPS simulado. [Guía técnica](https://github.com/Rpfdeveloper/Scripttoinstallprinters/blob/main/docs/ENGINEERING.md). | Proyecto personal ligado a mi experiencia técnica. |
 | [PACman](https://github.com/Rpfdeveloper/PACman) | Java, libGDX y modelo orientado a objetos; 304 pruebas JUnit verificadas en GitHub Actions. | Práctica UOC con código base docente y atribuciones conservadas. |
 | [UOCoworking](https://github.com/Rpfdeveloper/programmingFundamentalsUOC) | C, estructuras de datos, listas, colas y reservas. | Prácticas académicas UOC; el README explica cómo acceder a la rama con código. |
 | [Fundamentos de Java](https://github.com/Rpfdeveloper/Master-Java-Udemy) | Ejercicios de consola y calculadora con pruebas de regresión. | Formación y mejoras posteriores identificadas en el historial. |
