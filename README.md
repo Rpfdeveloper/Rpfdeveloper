@@ -21,7 +21,19 @@
 - 🌱 Profundizando en **Java**, **SQL**, **sistemas distribuidos** y **desarrollo web**
 - 📂 Todos mis proyectos: [ver repositorios](https://github.com/Rpfdeveloper?tab=repositories)
 
-## 🛠️ Stack
+Busco mi primera oportunidad profesional como **desarrollador Java junior**, donde aportar mi capacidad de diagnóstico y seguir aprendiendo con un equipo.
+
+**English:** Junior Java developer and Computer Science student at UOC, with 16 years of technical experience in printing systems. Public coursework, personal automation projects and an accepted Java open-source contribution are linked below.
+
+## 🤝 Contribución aceptada en código abierto
+
+**[JVM-MCP · PR #129](https://github.com/oscarbol09/jvm-mcp/pull/129)** — Aprobada e integrada el 20 de octubre de 2026.
+
+Corrección de la serialización JSON de arrays primitivos en Java, con **24 pruebas nuevas**. Las comprobaciones del fork pasaron en Linux, macOS y Windows. [Ver código y revisión del mantenedor](https://github.com/oscarbol09/jvm-mcp/pull/129).
+
+Las mejoras recientes se han preparado con asistencia de IA declarada. Los proyectos académicos conservan las atribuciones de la UOC y de sus autores.
+
+## 🛠️ Tecnologías que estudio y practico
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,mysql,php,html,css,js,bash,py,c,git,github,idea,linux" alt="Skills" />
@@ -59,14 +71,6 @@
 | [Variables y tipos](https://github.com/Rpfdeveloper/variables) | Diez ejemplos iniciales, conversiones y comparación de strings. | Primeros ejercicios de aprendizaje. |
 
 Los README de cada repositorio detallan los requisitos, la ejecución y los límites de la validación.
-
-## 🤝 Contribución aceptada en código abierto
-
-**[JVM-MCP · PR #129](https://github.com/oscarbol09/jvm-mcp/pull/129)** — Aprobada e integrada el 20 de octubre de 2026.
-
-Corrección de la serialización JSON de arrays primitivos en Java, con **24 pruebas nuevas**. Las comprobaciones del fork pasaron en Linux, macOS y Windows. [Ver código y revisión del mantenedor](https://github.com/oscarbol09/jvm-mcp/pull/129).
-
-Las mejoras recientes se han preparado con asistencia de IA declarada. Los proyectos académicos conservan las atribuciones de la UOC y de sus autores.
 
 ## 📊 Lenguajes más usados
 
